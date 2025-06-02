@@ -29,7 +29,7 @@ This project is the MATLAB code portion of author's graduation design. The overa
 
 1. **克隆仓库**：从GitHub或其他代码托管平台下载项目代码。  
    ```bash  
-   git clone <repository_url>  
+   git clone <https://github.com/cionHuang/ZMP-Preview-Control-of-AgiBot-Lingxi-X1.git>  
    ```  
 2. **设置MATLAB路径**：将项目文件夹添加到MATLAB的搜索路径中。
 3. **Adams联合仿真(可选)**:
@@ -40,7 +40,7 @@ This project is the MATLAB code portion of author's graduation design. The overa
 ---
 1. **Clone the Repository**: Download the project code from GitHub or another code hosting platform.  
    ```bash  
-   git clone <repository_url>  
+   git clone <https://github.com/cionHuang/ZMP-Preview-Control-of-AgiBot-Lingxi-X1.git>  
    ```  
 2. **Set MATLAB Path**: Add the project folder to MATLAB's search path.
 3. **Adams Co-simulation(Optional)**:
